@@ -1,0 +1,10 @@
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\bin\Debug\ExchangeRateConvertor_v1.0.exe.config
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\bin\Debug\ExchangeRateConvertor_v1.0.exe
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\bin\Debug\ExchangeRateConvertor_v1.0.pdb
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\obj\Debug\ExchangeRateConvertor_v1.0.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\obj\Debug\ExchangeRateConvertor_v1._0.Form1.resources
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\obj\Debug\ExchangeRateConvertor_v1._0.Properties.Resources.resources
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\obj\Debug\ExchangeRateConvertor_v1.0.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\obj\Debug\ExchangeRateConvertor_v1.0.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\obj\Debug\ExchangeRateConvertor_v1.0.exe
+C:\Users\EXCALIBUR\source\repos\ExchangeRateConvertor_v1.0\obj\Debug\ExchangeRateConvertor_v1.0.pdb
